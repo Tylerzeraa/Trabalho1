@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryano\\Desktop\\1 BIMESTRE - LISTA 1\\API\\ExemploAPI\\ExemploAPI.csproj": {}
+    "C:\\Users\\ryano\\Source\\Repos\\Trabalho1\\ExemploAPI\\ExemploAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryano\\Desktop\\1 BIMESTRE - LISTA 1\\API\\ExemploAPI\\ExemploAPI.csproj": {
+    "C:\\Users\\ryano\\Source\\Repos\\Trabalho1\\ExemploAPI\\ExemploAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryano\\Desktop\\1 BIMESTRE - LISTA 1\\API\\ExemploAPI\\ExemploAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ryano\\Source\\Repos\\Trabalho1\\ExemploAPI\\ExemploAPI.csproj",
         "projectName": "ExemploAPI",
-        "projectPath": "C:\\Users\\ryano\\Desktop\\1 BIMESTRE - LISTA 1\\API\\ExemploAPI\\ExemploAPI.csproj",
+        "projectPath": "C:\\Users\\ryano\\Source\\Repos\\Trabalho1\\ExemploAPI\\ExemploAPI.csproj",
         "packagesPath": "C:\\Users\\ryano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryano\\Desktop\\1 BIMESTRE - LISTA 1\\API\\ExemploAPI\\obj\\",
+        "outputPath": "C:\\Users\\ryano\\Source\\Repos\\Trabalho1\\ExemploAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryano\\AppData\\Roaming\\NuGet\\NuGet.Config",
