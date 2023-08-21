@@ -1,0 +1,102 @@
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Data\produto.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.exe
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.deps.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.runtimeconfig.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.pdb
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.ExemploAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ExemploAPI.props
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExemploAPI.props
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExemploAPI.props
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\scopedcss\bundle\ExemploAPI.styles.css
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.CopyComplete
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\refint\ExemploAPI.dll
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.pdb
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\Uniaraxa_desenv_2023_2-main\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ref\ExemploAPI.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Data\produto.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.exe
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.deps.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.runtimeconfig.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\ExemploAPI.pdb
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.AssemblyReference.cache
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.AssemblyInfoInputs.cache
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.AssemblyInfo.cs
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.CoreCompileInputs.cache
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.ExemploAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ExemploAPI.props
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExemploAPI.props
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExemploAPI.props
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\scopedcss\bundle\ExemploAPI.styles.css
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.CopyComplete
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\refint\ExemploAPI.dll
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.pdb
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ExemploAPI.genruntimeconfig.cache
+C:\Users\ryano\Desktop\Nova pasta (8)\Uniaraxa_desenv_2023_2-main\ExemploAPI\obj\Debug\net6.0\ref\ExemploAPI.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\Data\produto.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\ExemploAPI.exe
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\ExemploAPI.deps.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\ExemploAPI.runtimeconfig.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\ExemploAPI.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\ExemploAPI.pdb
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.AssemblyReference.cache
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.AssemblyInfoInputs.cache
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.AssemblyInfo.cs
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.CoreCompileInputs.cache
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.ExemploAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ExemploAPI.props
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExemploAPI.props
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExemploAPI.props
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\scopedcss\bundle\ExemploAPI.styles.css
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.csproj.CopyComplete
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\refint\ExemploAPI.dll
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.pdb
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ExemploAPI.genruntimeconfig.cache
+C:\Users\ryano\Desktop\1 BIMESTRE - LISTA 1\API\ExemploAPI\obj\Debug\net6.0\ref\ExemploAPI.dll
